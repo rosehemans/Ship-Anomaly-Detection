@@ -1,6 +1,6 @@
 ##### Model development by Rose Hemans (rose.hemans@gwu.edu) and Theodoros Pateros (tpateros@gwu.edu), research paper by Rose Hemans (rose.hemans@gwu.edu):
 
-![Page 1](https://github.com/rosehemans/Ship-Anomaly-Detection/blob/0082537633839f3d76880b8f3c39af96f1c383a7/Research%20Paper/Deep%20Learning%20Final%20Paper-1.png)
+![Page 1](https://github.com/rosehemans/Ship-Anomaly-Detection/blob/fc34eb5df8799b684ee39097f21be2084fde9b8c/Research%20Paper/Deep%20Learning%20Final%20Paper-1.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Page 2](https://github.com/rosehemans/Ship-Anomaly-Detection/blob/0082537633839f3d76880b8f3c39af96f1c383a7/Research%20Paper/Deep%20Learning%20Final%20Paper-2.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
